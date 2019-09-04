@@ -1,5 +1,5 @@
 # Site settings
-title: Tony Dias Web/Mobile/dApp Developer
+title: Tony Dias Software Engineer and Web Developer
 description: Software development and digital solutions for persons and companies
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: Software development and digital solutions for persons and companie
 # User settings
 username: Tony Dias
 user_description: Full in love about new challenges, dreamy and adrenaline driven. At work full-stack programmer, software architect, project manager, teacher, audio-visual producer. Advocate for the use of technology and education as a political, economic and social solution. Enthusiast of quantum computing, artificial intelligence and a few more nerdy subjects.
-user_title: Software Developer
+user_title: Software Engineer and Web Developer
 email: antoniocarlosdff@gmail.com
 twitter_url: https://twitter.com/antoniocdff
 github_url:  https://github.com/antoniocdff

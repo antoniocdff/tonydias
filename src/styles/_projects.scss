@@ -11,3 +11,21 @@
   text-align: center;
   margin: 5px auto;
 }
+
+.project-list {
+	ul > li {
+		img {
+		 width: 400px;
+		}
+	}
+	.description {
+		text-align: left;
+	}
+	.project-details-list {
+		text-align: left;
+	}
+}
+
+.more {
+	text-align: left;
+}
