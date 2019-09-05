@@ -1,31 +1,15 @@
-#projects {
-  width: 90%;
-  margin: 0 auto;
-  max-width: 960px;
-  @media only screen and (min-width: $cut) {
-    width: 80%;
+.project-list {
+  img {
+   width: 400px;
+  }
+  .description {
+    text-align: left;
+  }
+  .project-details-list {
+    text-align: left;
   }
 }
 
-.title {
-  text-align: center;
-  margin: 5px auto;
-}
-
-.project-list {
-	ul > li {
-		img {
-		 width: 400px;
-		}
-	}
-	.description {
-		text-align: left;
-	}
-	.project-details-list {
-		text-align: left;
-	}
-}
-
 .more {
-	text-align: left;
+  text-align: left;
 }
