@@ -62,7 +62,11 @@
   display: flex;
   justify-content: center;
   text-align: center;
+  a {
+    box-sizing: content-box;
+  }
   .icon {
+    box-sizing: content-box;
     text-align: center;
     color: #FFF;
     width: 20px;
